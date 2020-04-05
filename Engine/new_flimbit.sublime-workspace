@@ -1,0 +1,1955 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fu",
+				"function"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"console",
+				"console.log"
+			],
+			[
+				"sess",
+				"session_destroy"
+			],
+			[
+				"js",
+				"json"
+			],
+			[
+				"cont",
+				"content"
+			],
+			[
+				"ap",
+				"apiHost"
+			],
+			[
+				"api",
+				"apiHost"
+			],
+			[
+				"f",
+				"for\tfor …"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"conten",
+				"content1"
+			],
+			[
+				"v",
+				"vue\tVue instance"
+			],
+			[
+				"fad",
+				"fadeIn\t.fadeIn()"
+			],
+			[
+				"a",
+				"ajax\t$.ajax()"
+			],
+			[
+				"doc",
+				"doc_s\tFunction Signature"
+			],
+			[
+				"if",
+				"if\tif …"
+			],
+			[
+				"jq",
+				"jQuery.ajax\tjQuery.ajax"
+			],
+			[
+				"j",
+				"jQuery.get\tjQuery.get"
+			],
+			[
+				"chn",
+				"change-dp"
+			],
+			[
+				"_",
+				"_REQUEST"
+			],
+			[
+				"ch",
+				"change-password"
+			],
+			[
+				"token",
+				"token_status"
+			],
+			[
+				"requ",
+				"required_requests_for_post_ad"
+			],
+			[
+				"fil",
+				"filled_data_fields"
+			],
+			[
+				"toke",
+				"tokenExists"
+			],
+			[
+				"User",
+				"User_Factory"
+			],
+			[
+				"sub",
+				"sub_action"
+			],
+			[
+				"mi",
+				"mime"
+			],
+			[
+				"getB",
+				"getBase64ImageMIME"
+			],
+			[
+				"mim",
+				"mime_content_type"
+			],
+			[
+				"filei",
+				"file_info"
+			],
+			[
+				"V",
+				"VALID"
+			],
+			[
+				"cat",
+				"categories"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"siz",
+				"size_range"
+			],
+			[
+				"post",
+				"post-ad"
+			],
+			[
+				"base64",
+				"base64_init_val"
+			],
+			[
+				"dir",
+				"directory"
+			],
+			[
+				"base",
+				"base64_value"
+			],
+			[
+				"ba",
+				"base64_value"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"bas",
+				"base64imagetype"
+			],
+			[
+				"bs",
+				"base64parts"
+			],
+			[
+				"bae",
+				"base64parts"
+			],
+			[
+				"bas4",
+				"base64_init_val"
+			],
+			[
+				"file_t",
+				"file_type"
+			],
+			[
+				"u",
+				"upload"
+			],
+			[
+				"cou",
+				"count_missing_data"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"ad",
+				"ad_title"
+			],
+			[
+				"miss",
+				"missing_data_fields"
+			],
+			[
+				"b",
+				"b64img"
+			],
+			[
+				"ex",
+				"explode"
+			],
+			[
+				"b4",
+				"b64img"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"b64",
+				"b64img"
+			],
+			[
+				"b6",
+				"b64img"
+			],
+			[
+				"t",
+				"type"
+			],
+			[
+				"tok",
+				"token"
+			],
+			[
+				"Us",
+				"User_Factory"
+			],
+			[
+				"pa",
+				"par"
+			],
+			[
+				"array",
+				"array_uintersect"
+			],
+			[
+				"mis",
+				"missing_data_fields"
+			],
+			[
+				"req",
+				"required_requests_for_sign_up"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"full",
+				"full_name"
+			],
+			[
+				"username",
+				"username"
+			],
+			[
+				"sign",
+				"signup"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"cre",
+				"createToken"
+			],
+			[
+				"user_",
+				"User_Factory"
+			],
+			[
+				"us",
+				"user_id"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"fo",
+				"foreach\tforeach …"
+			],
+			[
+				"d",
+				"developer"
+			],
+			[
+				"p",
+				"phone"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"use",
+				"user"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"re",
+				"ret\treturn"
+			],
+			[
+				"en",
+				"entity"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"array_ke",
+				"array_keys"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"xl",
+				"xml_parse"
+			],
+			[
+				"m_",
+				"m_param"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"m",
+				"m_order"
+			],
+			[
+				"method",
+				"method_order"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"ne",
+				"new_value"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"invo",
+				"invoke"
+			],
+			[
+				"uns",
+				"unset"
+			],
+			[
+				"ino",
+				"invoke_response"
+			],
+			[
+				"inv",
+				"invoke"
+			],
+			[
+				"invoke",
+				"invoke_response"
+			],
+			[
+				"cla",
+				"class_name"
+			],
+			[
+				"cl",
+				"class_name"
+			],
+			[
+				"api_",
+				"api_primary_data"
+			],
+			[
+				"new",
+				"new_arr"
+			],
+			[
+				"ar",
+				"array"
+			],
+			[
+				"m_par",
+				"m_param"
+			],
+			[
+				"meth",
+				"method"
+			],
+			[
+				"metho",
+				"entity_factory_methods"
+			],
+			[
+				"get_cl",
+				"get_class_methods"
+			],
+			[
+				"s",
+				"send"
+			],
+			[
+				"send",
+				"senderName"
+			],
+			[
+				"US",
+				"username"
+			],
+			[
+				"R",
+				"result"
+			],
+			[
+				"AP",
+				"apikey"
+			],
+			[
+				"sen",
+				"senderName"
+			],
+			[
+				"sms",
+				"SMS_API"
+			],
+			[
+				"SMS",
+				"SMS_API"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"date_de",
+				"date_default_timezone_set"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"time",
+				"time_log"
+			],
+			[
+				"param",
+				"param_user_id"
+			],
+			[
+				"pre",
+				"prefix"
+			],
+			[
+				"K",
+				"k"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"pla",
+				"placement-img"
+			],
+			[
+				"MAIN",
+				"main_img"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"key",
+				"keywords"
+			],
+			[
+				"di",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<?php \ninclude $_SERVER['DOCUMENT_ROOT'].'/new_flimbit/engine/env/ftf.php';\n\n\n/*echo md5(rand(1e1, 2e6));*/\n\n\n?>\n\n\n\n<script type=\"text/javascript\">\n\tvar str = \"damn fuck , i dont know\";\n\n\tvar b64 =  btoa(str);\n\n</script>",
+			"file": "/C/xampp/htdocs/new_flimbit/api/test.php",
+			"file_size": 236,
+			"file_write_time": 132043049052167658,
+			"settings":
+			{
+				"buffer_size": 220,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/new_flimbit/post-ad.php",
+			"settings":
+			{
+				"buffer_size": 13940,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/new_flimbit/js/main-lib.js",
+			"settings":
+			{
+				"buffer_size": 3971,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/new_flimbit/settings.php",
+			"settings":
+			{
+				"buffer_size": 17756,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/new_flimbit/welcome.php",
+			"settings":
+			{
+				"buffer_size": 3398,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<?php \ninclude $_SERVER['DOCUMENT_ROOT'].'/new_flimbit/engine/env/ftf.php';\ninclude_once ROOT.'engine/controllers/signup_ctrl.php';\n\n?>\n\n<!DOCTYPE html>\n<html id=\"LoginForm\">\n<head>\n<?php $_PAGE_TITLE = \"Sign Up\" ?>\t\n<?php include 'includes/meta-main.php'; ?>\n</head>\n<body id=\"LoginPage\">\n\n<style type=\"text/css\">\nbody {\n     background: url('css/img/bg_pic_header_2.jpg') fixed;\n     background-repeat: no-repeat;\n    background-size: cover;\n    background-position: 40%;\n    font-family: 'PT Sans', sans-serif;\n}\n\na{color:#58bff6;text-decoration: none; font-family:'HelveticaNeue','Arial', sans-serif !important; font-size: 12px !important;}\na:hover{color:#aaa; }\n\nsection#formWrapper {\n\twidth:100%; \n\theight:100%;\n\tposition: absolute; \t\n}\n\n.form-group {\n  margin-top: -10px;\n}\n\n.darken-bg{background: rgba(0,0,0,.5) !important; transition:all .3s ease; overflow-y: scroll;}\n\n*[role=\"form\"] {\n    max-width: 530px;\n    padding: 15px;\n    margin: 0 auto;\n    border-radius: 0.3em;\n    background-color: #36424c;\n    opacity: 0.95;\n    color:#fff;\n    margin-top: 20px;\n    margin-bottom: 20px;\n}\n\n*[role=\"form\"] h2 { \n    font-family: 'Open Sans' , sans-serif;\n    font-size: 40px;\n    font-weight: 600;\n    color: #000000;\n    margin-top: 5%;\n    text-align: center;\n    text-transform: uppercase;\n    letter-spacing: 4px;\n}\n\n\nbutton.submit {\n\tbackground-color: #c77a12;\n\tborder:1px solid #bb7311;\n}\n\nbutton.submit:hover{ \n\tbackground-color: #b16c10;  \n\tcolor:#fdf4ea; \n\tcursor:pointer;\n}\n\nbutton.submit:focus{\n\toutline: none;\n}\n\nselect[name=sex] {\n\twidth: 200px;\n}\n\n input[name=phone]::-webkit-inner-spin-button, \n input[name=phone]::-webkit-outer-spin-button{\n    -webkit-appearance:none;\n    -moz-appearance:none;\n    appearance:none;\n    margin: 0;\n}\n\n.error-msg { color: #bfbf00; margin-left: 25px;  font-size: 12px;/* margin-top: 20px;  margin-bottom: 30px;*/}\n.error-msg icon { font-size: 12px }\n.error-msg span {font-size: 11px;}\n\ndiv.error-list {\n\tcolor:#ff7777; \n\tfont-size: 12px;\n}\n\ndiv.error-list ul {\n\tlist-style: none;\n}\n\n\ndiv.success-list {\n\tcolor:#02ff77; \n\tfont-size: 12px;\n}\n\n.error-input {\n\tborder:red 1px solid;\n}\n\n/*mobile*/\n@media (max-width:600px)\n{\n\tbody {\n\t     background: url('css/img/bg_pic_header_2.jpg') fixed;\n\t    background-size: cover;\n\t    background-position: 40%;\n\t    font-family: 'PT Sans', sans-serif;\n\t}\n\n}\n</style>\n\n\n\n<section id=\"formWrapper\" data-aos=\"fade-in\" data-aos-duration=\"2000\">\n\t<div class=\"container\">\n\t            <form class=\"form-horizontal\" role=\"form\" method=\"POST\" @submit=\"formErrorExists\">\n\t                <h3 class=\"text-center head\"><img src=\"css/img/logo.png\" class=\"img-fluid\" width=\"140\" id=\"flimbit-logo\" style=\"margin-bottom: 20px;\"></h3>\n\n\t                <?php if (isset($_POST['sign-up']) && !empty($errors)): ?>\n\t                <div class=\"error-list\">\n\t                \t<?php echo $ERROR_MESSAGES ?>\n\t                </div>\t                \t\n\t                <?php endif ?>\n\n\t                <?php if (isset($_POST['sign-up']) && empty($errors)): ?>\n\t                <div class=\"success-list\">\n\t                \t<?php echo $SUCCESS_MESSAGES ?>\n\t                </div>\t                \t\n\t                <?php endif ?>\n\n\n\t                <div class=\"form-group\">\n\t                    <div class=\"col-sm-9\">\n\t                        <input type=\"text\" @focusout=\"usernameHasError()\" value=\"<?php postConst('username') ?>\" name=\"username\" id=\"username\" v-model=\"username\" placeholder=\"Username\" class=\"form-control\" autofocus>\n\t                    </div>\n\t\t\t\t\t\t<span class=\"error-msg\" id=\"full-name-error\" v-bind:style=\"errorStyle['username']\"> \n\t\t\t\t\t\t\t<span id=\"usernamename-error-MSG\" v-html=\"errorMsg['username']\"></span>\n\t\t\t\t\t\t</span>\n\t                </div>\n\n\t                <div class=\"form-group\">\n\t                    <div class=\"col-sm-9\">\n\t                        <input type=\"text\" @focusout=\"fullNameHasError()\" value=\"<?php postConst('full_name') ?>\" name=\"full_name\" id=\"full_name\" v-model=\"full_name\" placeholder=\"Full Name\" class=\"form-control\" autofocus>\n\t                    </div>\n\t\t\t\t\t\t<span class=\"error-msg\" id=\"full-name-error\" v-bind:style=\"errorStyle['full_name']\"> \n\t\t\t\t\t\t<span id=\"username-error-MSG\" v-html=\"errorMsg['full_name']\"></span>\n\t\t\t\t\t\t</span>\n\t                </div>\n\n\n\t                <div class=\"form-group\">\n\t                   <!--  <label for=\"password\" class=\"col-sm-3 control-label\">Password*</label> -->\n\t                    <div class=\"col-sm-9\">\n\t                        <input type=\"password\" @focusout=\"passwordHasError()\" name=\"password\" id=\"password\" name=\"password\" v-model=\"password\" placeholder=\"Password\" class=\"form-control\">\n\t                    </div>\n\t\t\t\t\t\t<span class=\"error-msg\" id=\"password-error\" v-bind:style=\"errorStyle['password']\"> \n\t\t\t\t\t\t<span id=\"password-error-MSG\" v-html=\"errorMsg['password']\"></span>\n\t\t\t\t\t\t</span>\t                    \n\t                </div>\n\t                <div class=\"form-group\">\n\t                    <!-- <label for=\"password\" class=\"col-sm-3 control-label\">Confirm Password*</label> -->\n\t                    <div class=\"col-sm-9\">\n\t                        <input type=\"password\" @focusout=\"confirmPasswordHasError()\" name=\"confirm_password\" id=\"confirm_password\" v-model=\"confirm_password\" placeholder=\"Confirm Password\" class=\"form-control\">\n\t                    </div>\n\t\t\t\t\t\t<span class=\"error-msg\" id=\"confirm-password-error\"  v-bind:style=\"errorStyle['confirm_password']\"> \n\t\t\t\t\t\t<span id=\"confirm_password-error-MSG\" v-html=\"errorMsg['confirm_password']\"></span>\n\t\t\t\t\t\t</span>\t                    \n\t                </div>\n\n\t                <div class=\"form-group\">\n\t   \t\t\t\t\t<div class=\"col-sm-9\">\n\t   \t\t\t\t\t\t\t<select name=\"school_id\" @focusout=\"schoolHasError()\" class=\"form-control\" v-model=\"school_id\">\n\t   \t\t\t\t\t\t\t\t<option value=\"\">- Choose School -</option>\n\t\t\t\t\t\t\t\t\t<?php foreach ($schools as $data): ?>\n\t\t\t\t\t\t\t\t\t<option value=\"<?=$data['id'] ?>\" <?php selectPostConst('school_id', $data['id']) ?>> <?=$data['acronym'] ?> - (<?=$data['name'] ?>)</option>\t\n\t\t\t\t\t\t\t\t\t<?php endforeach ?>\t\n\t   \t\t\t\t\t\t\t</select>\n\t   \t\t\t\t\t</div>\n\t\t\t\t\t\t<span class=\"error-msg\" id=\"school_id-error\"  v-bind:style=\"errorStyle['school_id']\"> \n\t\t\t\t\t\t<span id=\"school_id-error-MSG\" v-html=\"errorMsg['school_id']\"></span>\n\t\t\t\t\t\t</span>\t                \t\n\t                </div>\n\n\t                <div class=\"form-group\">\n\t                    <!-- <label for=\"phoneNumber\" class=\"col-sm-3 control-label\">Phone number </label> -->\n\t                    <div class=\"col-sm-9\">\n\t                        <input type=\"number\" @focusout=\"phoneNumberHasError()\" value=\"<?php postConst('phone') ?>\" name=\"phone\" id=\"phone\" v-model=\"phone\" placeholder=\"Phone number\" min=\"0\" class=\"form-control\">\n\n\t                    </div>\n\t\t\t\t\t\t<span class=\"error-msg\" id=\"phone-number-error\"  v-bind:style=\"errorStyle['phone']\"> \n\t\t\t\t\t\t<span id=\"phone-error-MSG\" v-html=\"errorMsg['phone']\"></span>\n\t\t\t\t\t\t</span>\t                    \n\t                </div>\n\n\n\t                <div class=\"form-group\">\n\t                   <!--  <label for=\"email\" class=\"col-sm-3 control-label\">Email* </label> -->\n\t                    <div class=\"col-sm-9\">\n\t                        <input type=\"email\" @focusout=\"emailHasError()\" v-model=\"email\" value=\"<?php postConst('email') ?>\" name=\"email\" id=\"email\" placeholder=\"Email\" class=\"form-control\">\n\t                    </div>\n\t\t\t\t\t\t<span class=\"error-msg\" id=\"email-error\"  v-bind:style=\"errorStyle['email']\"> \n\t\t\t\t\t\t<span id=\"email-error-MSG\" v-html=\"errorMsg['email']\"></span>\n\t\t\t\t\t\t</span>\n\n\t                </div>\n\n\t   \t\t\t\t<div class=\"form-group\">\n\t   \t\t\t\t\t<div class=\"col-sm-9\">\n\t   \t\t\t\t\t\t\t<select name=\"sex\" @focusout=\"sexHasError()\" class=\"form-control\" v-model=\"sex\">\n\t   \t\t\t\t\t\t\t\t<option value=\"\">- Choose Sex -</option>\n\t   \t\t\t\t\t\t\t\t<option value=\"male\" <?php selectPostConst('sex', 'male') ?>>Male</option>\n\t   \t\t\t\t\t\t\t\t<option value=\"female\" <?php selectPostConst('sex', 'female') ?>>Female</option>\n\t   \t\t\t\t\t\t\t</select>\n\t   \t\t\t\t\t</div>\n\t\t\t\t\t\t<span class=\"error-msg\" id=\"sex-error\"  v-bind:style=\"errorStyle['sex']\"> \n\t\t\t\t\t\t<span id=\"sex-error-MSG\" v-html=\"errorMsg['sex']\"></span>\n\t\t\t\t\t\t</span>\t   \t\t\t\t\t\n\t   \t\t\t\t</div>                             \n\n\t   \t\t\t\t<p>\n\t   \t\t\t\t\t<!--  -->\n\t                \t<button type=\"submit\"  name=\"sign-up\" @click=\"formErrorExists()\"  class=\"btn btn-primary btn-block submit\">Sign up</button>\n\t            \t</p>\n\t                <p style=\"color:#f4f5f7; font-size: 13px; margin-left: -10px; margin-top: 10px;\">Already on flimbit? Click here to <a href=\"login.php\" >Log In</a></p>\n\n\t            </form> <!-- /form -->\n\t</div> <!-- ./container -->\n</section>\n\n\n<section style=\"display: none;\" id=\"async\">\n\t<ajax for=\"usernameExists\"></ajax>\t\n\t<ajax for=\"email\"> </ajax>\n\t<ajax> </ajax>\n</section>\n\t<script src=\"js/jquery/jquery-3.2.1.min.js\"></script> <!-- JQUERY 3.2.1 -->\n\t<script src=\"js/jquery/jquery.fancybox.min.js\"></script> \n\t<script src=\"js/vuejs/vue.min.js\"></script>\n\t<script src=\"js/animate/aos.js\"></script> <!-- AOS JAVASCRIPT FILE--> \n\t<script src=\"js/bootstrap/bootstrap.js\"></script>\n\t<script src=\"js/bootstrap/bootstrap.bundle.min.js\"></script>\n\t<script src=\"js/main-lib.js\"></script> \n\t<script type=\"text/javascript\">\n      AOS.init({\n        easing: 'ease-in-out-sine'\n      });\n    </script>\t\n\n<script type=\"text/javascript\" core=\"jquery/vanilla\">\n/* Local functions */\n/*function usernameExists(param) {\n\tvar ajaxData = {\n\t\tusername: param,\n\t\taction: \"check\"\n\t}\n\n\t$.get(\n\t\"engine/async/users_ajax.php\",\n\tajaxData,\t\n\tfunction(data, status){\n\t\tif (parseInt(data) && status) {\n\t\t\t$(\"ajax[for=usernameExists]\").html(1);\n\t\t} else {\n\t\t\t$(\"ajax[for=usernameExists]\").html(null);\n\t\t}\n\t});\n\n\treturn ($(\"ajax[for=usernameExists]\").html() == 1) ? true : false;\n}\t\n*/\n\nvar formInputs = $('input[type=\"text\"], input[type=\"password\"], input[type=number], input[type=\"email\"], select[name=sex]');\nformInputs.attr(\"autocomplete\",\"off\");\nformInputs.attr(\"autofocus\", false);\nformInputs.focus(function() {\n   $(this).parent().children('p.formLabel').addClass('formTop');\n   /*$('section#formWrapper').addClass('darken-bg');*/\n   $('div.logo').addClass('logo-active');\n});\nformInputs.focusout(function() {\n\tif ($.trim($(this).val()).length == 0){\n\t$(this).parent().children('p.formLabel').removeClass('formTop');\n\t}\n\t/*$('section#formWrapper').removeClass('darken-bg');*/\n\t$('div.logo').removeClass('logo-active');\n});\n$('p.formLabel').click(function(){\n\t $(this).parent().children('.form-style').focus();\n});\n\t\n\n$('select[name=sex]').focus(function(){\n\t$(\"#formSexLabel\").show();\n});\t\n$('select[name=sex]').focusout(function(){\n\t$(\"#formSexLabel\").hide();\n});\n\n\n$(\"#flimbit-logo\").hover(\nfunction () {\n\t$(this).addClass(\"transition\");\n},\nfunction () {\n\t$(this).removeClass(\"transition\");\n});\n/*$(\".error-msg\").html(\"\");  // hide errors*/\n\n$(\"input[name=phone]\").focus(function() {\n\t/*$(this).attr(\"style\", \"border:red 1px solid\");*/\n});\n</script>\n<script type=\"text/javascript\" core=\"vue\">\n\tnew Vue({\n\t\tel:'form',\n\t\tdata : {\n\t\t\tusername : \"\",\n\t\t\tfull_name : \"\",\n\t\t\tpassword : \"\",\n\t\t\tconfirm_password : \"\",\n\t\t\tschool_id : \"\",\n\t\t\tphone : \"\",\n\t\t\temail : \"\",\n\t\t\tsex : \"\",\n\n\t\t\terrorStyle : {\n\t\t\t\tusername : \"\",\n\t\t\t\tfull_name : \"\",\n\t\t\t\tpassword : \"\",\n\t\t\t\tconfirm_password : \"\",\n\t\t\t\tschool_id : \"\",\n\t\t\t\tphone : \"\",\n\t\t\t\temail : \"\",\n\t\t\t\tsex : \"\"\t\t\t\t\n\t\t\t},\n\n\t\t\terrorMsg : {\n\t\t\t\tusername : \"\",\n\t\t\t\tfull_name : \"\",\n\t\t\t\tpassword : \"\",\n\t\t\t\tconfirm_password : \"\",\n\t\t\t\tschool_id : \"\",\n\t\t\t\tphone : \"\",\n\t\t\t\temail : \"\",\n\t\t\t\tsex : \"\"\t\t\t\t\n\t\t\t},\n\t\t\ticon :\"<icon class='fa fa-exclamation-circle'></icon> \",\n\t\t\tformSubmitState : \"button\"\n\t\t},\n\n\t\tmethods : {\n\t\t\tusernameHasError : function () {\n\t\t\t\tif(this.username.trim().length < 3) {\n\t\t\t\t\tthis.errorMsg['username'] = this.icon+\"Your username should not be less than 3 characters !\";\n\t\t\t\t\treturn true;\n\t\t\t\t} else if (strHasWhiteSpace(this.username.trim()) && this.username.trim().length >= 3){\n\t\t\t\t\tthis.errorMsg['username'] = this.icon+\"Username should not contain white spaces !\";\n\t\t\t\t\treturn true;\n\t\t\t\t} else if (!isSuitableForUsername(this.username.trim()) && this.username.trim().length >= 3) {\n\t\t\t\t\tthis.errorMsg['username'] = this.icon+\"Your username should contain characters A-Za-z0-9 !\";\n\t\t\t\t\treturn true;\n\t\t\t\t} else if (this.username.trim().length == 0) {\n\t\t\t\t\tthis.errorMsg['username'] = this.icon+\"Your username should not be empty !\";\n\t\t\t\t\treturn true;\n\t\t\t\t} else {\n\t\t\t\t\tthis.errorMsg['username'] = \"<br>\";\n\t\t\t\t\treturn false;\n\t\t\t\t}\n\n\t\t\t},\n\n\t\t\tfullNameHasError : function () {\n\t\t\t\tif (this.full_name.trim().length < 3) {\n\t\t\t\t\tthis.errorMsg['full_name'] = this.icon+\"Your full name should not be less than 3 characters !\";\n\t\t\t\t\treturn true;\n\t\t\t\t} else if (!hasOnlyLetters(this.full_name.trim())) {\n\t\t\t\t\tthis.errorMsg['full_name'] = this.icon+\" Your full name should contain only alphabets ! \";\n\t\t\t\t\treturn true;\n\t\t\t\t} else {\n\t\t\t\t\tthis.errorMsg['full_name'] = \"<br>\";\n\t\t\t\t\treturn false;\n\t\t\t\t}\n\t\t\t},\n\n\n\t\t\tpasswordHasError : function () {\n\t\t\t\tif (this.password.trim().length < 5) {\n\t\t\t\t\tthis.errorMsg['password'] = this.icon+\" Your password should not be less than 5 characters !\";\n\t\t\t\t\treturn true;\n\t\t\t\t} else {\n\t\t\t\t\tthis.errorMsg['password'] = \"<br>\";\n\t\t\t\t\treturn false;\t\t\t\t\t\n\t\t\t\t}\n\t\t\t},\n\n\t\t\tconfirmPasswordHasError : function(){\n\t\t\t\tif (this.confirm_password.trim() != this.password.trim() && this.confirm_password.trim().length >=5 ) {\n\t\t\t\t\tthis.errorMsg['confirm_password'] = this.icon+\"Passwords do not match !\";\n\t\t\t\t\treturn true;\n\t\t\t\t} else if (this.confirm_password.trim().length < 5) {\n\t\t\t\t\tthis.errorMsg['confirm_password'] = this.icon+\"This password should not be less than 5 characters !\";\n\t\t\t\t\treturn true;\n\t\t\t\t} else {\n\t\t\t\t\tthis.errorMsg['confirm_password'] = \"<br>\";\n\t\t\t\t\treturn false;\n\t\t\t\t}\n\t\t\t},\n\n\t\t\tschoolHasError : function(){\n\t\t\t\tif (this.school_id.trim() == \"\" || this.school_id.trim() == null) {\n\t\t\t\t\tthis.errorMsg['school_id'] = this.icon+\"Please choose your school !\";\n\t\t\t\t\treturn true;\n\t\t\t\t} else {\n\t\t\t\t\tthis.errorMsg['school_id'] = \"<br>\";\n\t\t\t\t\treturn false;\n\t\t\t\t}\n\t\t\t},\n\n\t\t\tphoneNumberHasError : function () {\n\t\t\t\tif (this.phone.trim().length != 11 && isPhoneNumber(this.phone.trim())) {\n\t\t\t\t\tthis.errorMsg['phone'] = this.icon+\" Phone number should be 11 digits !\";\n\t\t\t\t\treturn true;\n\t\t\t\t} else if(!isPhoneNumber(this.phone.trim())) {\n\t\t\t\t\tthis.errorMsg['phone'] = this.icon+\"Please input a valid phone number !\";\n\t\t\t\t\treturn true;\n\t\t\t\t} else {\n\t\t\t\t\tthis.errorMsg['phone'] = \"<br>\";\n\t\t\t\t\treturn false;\n\t\t\t\t}\n\n\t\t\t},\n\n\n\t\temailHasError : function () {\n\t\t\t\tif (!isEmail(this.email.trim())) {\n\t\t\t\t\tthis.errorMsg['email'] = this.icon+\"Invalid email !\";\n\t\t\t\t\treturn true;\n\t\t\t\t} else {\n\t\t\t\t\tthis.errorMsg['email'] = \"<br>\";\n\t\t\t\t\treturn false;\n\t\t\t\t}\n\t\t\t},\n\n\n\n\t\t\tsexHasError : function () {\n\t\t\t\tif (this.sex.trim() == \"\" || this.sex.trim() == null) {\n\t\t\t\t\tthis.errorMsg['sex'] = this.icon+\"Please choose either male or female !\";\n\t\t\t\t\treturn true;\n\t\t\t\t} else {\n\t\t\t\t\tthis.errorMsg['sex'] = \"<br>\";\n\t\t\t\t\treturn false;\n\t\t\t\t}\n\t\t\t},\n\t\n\n\t\t\t\n\t\t\t/*event*/\n\t\t\tformErrorExists : function (e) {\n\t\t\t\tvar validationError = [\n\t\t\t\t\t\t\tthis.usernameHasError(), \n\t\t\t\t\t\t\tthis.fullNameHasError(),\n\t\t\t\t\t\t\tthis.passwordHasError(),\n\t\t\t\t\t\t\tthis.confirmPasswordHasError(),\n\t\t\t\t\t\t\tthis.schoolHasError(),\n\t\t\t\t\t\t\tthis.phoneNumberHasError(),\n\t\t\t\t\t\t\tthis.emailHasError(),\n\t\t\t\t\t\t\tthis.sexHasError()\n\t\t\t\t\t\t];\n\n\t\t\t\tcountCheck = 0;\t\t\n\t\t\t\tfor (var i = 0; i < validationError.length; i++) {\n\t\t\t\t\tif (validationError[i]) {\n\t\t\t\t\t\tcountCheck ++;\n\t\t\t\t\t}\n\t\t\t\t}\t\n\n\t\t\t\tif (countCheck > 0) {\n\t\t\t\t\te.preventDefault();\n\t\t\t\t} \n\t\t\t\tconsole.log(e);\n\t\t\t\tconsole.log(validationError);\n\t\t\t}\t\n\t\t\n\t\t},\t\n\n\t});\n\n\n\n\n</script>\n</body>\n</html>",
+			"file": "/C/xampp/htdocs/new_flimbit/signup.php",
+			"file_size": 16191,
+			"file_write_time": 132087055867119148,
+			"settings":
+			{
+				"buffer_size": 15643,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/new_flimbit/login.php",
+			"settings":
+			{
+				"buffer_size": 9775,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/new_flimbit/index.php",
+			"settings":
+			{
+				"buffer_size": 7735,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/new_flimbit/api/v1/json.php",
+			"settings":
+			{
+				"buffer_size": 18139,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/test/jquery/index.html",
+			"settings":
+			{
+				"buffer_size": 4941,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "form id=\"your_form_id\" class=\"form-horizontal\">\n  <fieldset>\n\n    <!-- Form Name -->\n    <legend>Form Name</legend>\n\n    <!-- Text input-->\n    <div class=\"form-group\">\n      <label class=\"col-md-4 control-label\" for=\"title\">Title</label>\n      <div class=\"col-md-4\">\n        <input id=\"title\" name=\"title\" type=\"text\" placeholder=\"Some title for your sample file\"\n          class=\"form-control input-md\" required=\"\"> <span\n          class=\"help-block\">Sample field (title)</span>\n      </div>\n    </div>\n\n    <!-- File Button -->\n    <div class=\"form-group\">\n      <label class=\"col-md-4 control-label\" for=\"file_attachment\">     (PDF)</label>\n      <div class=\"col-md-4\">\n        <input id=\"file_attachment\" name=\"pdf\" class=\"input-file\" type=\"file\">\n      </div>\n    </div>\n\n    <!-- Button -->\n    <div class=\"form-group\">\n      <label class=\"col-md-4 control-label\" for=\"submit\">Submit</label>\n      <div class=\"col-md-4\">\n        <button id=\"submit\" name=\"submit\" class=\"btn btn-primary\">Submit AJAX upload with file</button>\n      </div>\n    </div>\n  </fieldset>\n</form>\n\n\n<script type=\"text/javascript\">\n jQuery(document).ready(function() {\n  jQuery('#your_form_id').submit(function(e) {\n    e.preventDefault();\n\n    // Note: if you observe 422 responses, check what's assembled into fd amd\n    // that it looks correct.\n    var fd = new FormData(jQuery(this)[0]);\n\n    jQuery.ajax({\n      url : '/APICollectionPath', // Specify the path to your API service\n      type : 'POST',              // Assuming creation of an entity\n      contentType : false,        // To force multipart/form-data\n      data : fd,\n      processData : false,\n      success : function(data) {\n        // Handle the response on success\n        // alert(JSON.stringify(data));\n      }\n    });\n  });\n}); \n</script>",
+			"settings":
+			{
+				"buffer_size": 1795,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Class/upload.php",
+			"settings":
+			{
+				"buffer_size": 6545,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<?php\n\n\nif (User_Factory::isLoggedIn()) {\n\theader(\"Location:user-dashboard/index.php\");\n}\n\n\nif (isset($_POST['login'])) {\n\t$email = sanitize_note($_POST['email']);\n\t$password = sanitize_note($_POST['password']);\n\n\tif (!User_Factory::passwordCheckByEmail($email, $password )) {\n\t\t$errors[] = \"Invalid details \";\n\t}\n\n\t// Logging user in\n\tif (empty($errors)) {\n\t\tUser_Factory::authenticate($email);\n\t\theader(\"Location:user-dashboard/index.php\");\n\t\texit();\n\t} \n\n}\n?>",
+			"file": "/C/xampp/htdocs/cryptowhale/Engine/Controllers/login_ctrl.php",
+			"file_size": 520,
+			"file_write_time": 132100049796265750,
+			"settings":
+			{
+				"buffer_size": 462,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Controllers/post-ad_ctrl.php",
+			"settings":
+			{
+				"buffer_size": 2274,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Controllers/index_ctrl.php",
+			"settings":
+			{
+				"buffer_size": 1032,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Controllers/login_ctrl.php",
+			"settings":
+			{
+				"buffer_size": 1379,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Controllers/signup_ctrl.php",
+			"settings":
+			{
+				"buffer_size": 2951,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Class/ad_factory.php",
+			"settings":
+			{
+				"buffer_size": 12091,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Class/school_factory.php",
+			"settings":
+			{
+				"buffer_size": 2272,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Class/user_factory.php",
+			"settings":
+			{
+				"buffer_size": 6217,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Class/user_singleton.php",
+			"settings":
+			{
+				"buffer_size": 2324,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Class/ad_singleton.php",
+			"settings":
+			{
+				"buffer_size": 1846,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Env/ftf.php",
+			"settings":
+			{
+				"buffer_size": 1306,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: co",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Enumeration"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 154.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/new_flimbit"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/cryptowhale/Engine/Env/ftf.php",
+		"/C/xampp/htdocs/cryptowhale/Engine/Class/wallet_factory.php",
+		"/C/xampp/htdocs/cryptowhale/Engine/Class/user_singleton.php",
+		"/C/xampp/htdocs/cryptowhale/Engine/Class/investment_factory.php",
+		"/C/xampp/htdocs/new_flimbit/admin/temp/list-schools.php",
+		"/C/xampp/htdocs/new_flimbit/api/v1/json.php",
+		"/C/xampp/htdocs/new_flimbit/api/v1/flimbitAPI/json.php",
+		"/C/xampp/htdocs/new_flimbit/login.php",
+		"/C/xampp/htdocs/new_flimbit/api/json.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Procedures/init.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Plugins/Class/ebulksms.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Class/user_factory.php",
+		"/C/Users/HP-PC/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/HP-PC/AppData/Roaming/Sublime Text 3/Installed Packages/VueFormatter.sublime-package/.vuebeautifyrc",
+		"/C/xampp/htdocs/new_flimbit/Engine/Class/user_singleton.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Controllers/settings_ctrl.php",
+		"/C/xampp/htdocs/new_flimbit/settings.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Class/ad_factory.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Class/school_factory.php",
+		"/C/xampp/htdocs/new_flimbit/js/main-lib.js",
+		"/C/xampp/htdocs/new_flimbit/Engine/Class/api.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Class/upload.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Controllers/post-ad_ctrl.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Controllers/index_ctrl.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Controllers/login_ctrl.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Controllers/signup_ctrl.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Class/ad_singleton.php",
+		"/C/xampp/htdocs/writerkraft/Engine/Class/upload.php",
+		"/C/xampp/htdocs/new_flimbit/index.php",
+		"/C/xampp/htdocs/new_flimbit/search.php",
+		"/C/xampp/htdocs/new_flimbit/includes/category-nonlogged.php",
+		"/C/xampp/htdocs/test/index.php",
+		"/C/xampp/htdocs/test/ANDELA QUESTIONS.txt",
+		"/C/Users/HP-PC/Desktop/ABC/MAIN/htdocs/test/index.php",
+		"/C/xampp/htdocs/new_flimbit/api/xml.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Class/abstract.pagination.php",
+		"/C/xampp/htdocs/new_flimbit/ad.php",
+		"/C/xampp/htdocs/new_flimbit/privacy-policy.php",
+		"/C/xampp/htdocs/new_flimbit/rules.php",
+		"/C/xampp/htdocs/new_flimbit/css/main.css",
+		"/C/xampp/htdocs/new_flimbit/css/extend.bootstrap.css",
+		"/C/xampp/htdocs/new_flimbit/home.php",
+		"/C/xampp/htdocs/new_flimbit/profile.php",
+		"/C/xampp/htdocs/new_flimbit/category.php",
+		"/C/xampp/htdocs/new_flimbit/post-ad.php",
+		"/C/xampp/htdocs/new_flimbit/includes/meta-main.php",
+		"/C/xampp/htdocs/new_flimbit/welcome.php",
+		"/C/xampp/htdocs/new_flimbit/logout.php",
+		"/C/xampp/htdocs/new_flimbit/signup.php",
+		"/C/xampp/htdocs/new_flimbit/includes/footer.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Class/sms.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Class/mail.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Tests/sms.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Env/ftf.php",
+		"/C/Users/clinton/Novacom Webs Lib/FLIMBIT_PRODUCTION/sitemap.xml",
+		"/C/Users/clinton/Novacom Webs Lib/FLIMBIT_PRODUCTION/robots.txt",
+		"/C/xampp/htdocs/new_flimbit/includes/header.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Class/school_singleton.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Controllers/category_ctrl.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Controllers/search_ctrl.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Controllers/profile_ctrl.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Controllers/home_ctrl.php",
+		"/C/xampp/htdocs/new_flimbit/includes/category-logged.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Class/admin.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Env/db.php",
+		"/C/xampp/htdocs/new_flimbit/includes/search-nonlogged.php",
+		"/C/xampp/htdocs/new_flimbit/includes/search-logged.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Procedures/errors.php",
+		"/C/xampp/htdocs/new_flimbit/admin/temp/edit-school.php",
+		"/C/xampp/htdocs/new_flimbit/admin/temp/add-school.php",
+		"/C/xampp/htdocs/new_flimbit/test.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Controllers/ad_ctrl.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Class/pagination.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Controllers/search_ctrl",
+		"/C/xampp/htdocs/new_flimbit/Engine/Controllers/ad.php",
+		"/C/xampp/htdocs/new_flimbit/css/bootstrap/bootstrap.css",
+		"/C/xampp/htdocs/new_flimbit/Engine/Network/route.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Async/users_ajax.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Class/ad_singelton.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Controllers/post-ad.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Async/users_ajax",
+		"/C/xampp/htdocs/new_flimbit/admin/temp/index.php",
+		"/C/xampp/htdocs/new_flimbit/admin/temp/home.php",
+		"/C/xampp/htdocs/new_flimbit/admin/temp/edit-schools.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Controllers/signup.php",
+		"/C/xampp/htdocs/new_flimbit/css/loaders.css",
+		"/C/xampp/htdocs/new_flimbit/categories.php",
+		"/C/Users/clinton/Desktop/app/httpd/config/httpd.conf",
+		"/C/xampp/htdocs/hackathon/test1.php",
+		"/C/xampp/htdocs/hackathon/test2.php",
+		"/C/xampp/htdocs/zipment/css/custom-style.css",
+		"/C/xampp/htdocs/new_flimbit/js/bootstrap/bootstrap.bundle.js",
+		"/C/xampp/htdocs/new_flimbit/css/jquery.fancybox.min.css",
+		"/C/xampp/htdocs/new_flimbit/js/jquery/jquery.fancybox.min.js",
+		"/C/xampp/htdocs/hotelr/engine/tesseract/controllers/tpanel.index.php",
+		"/C/xampp/htdocs/hotelr/enter/book.php",
+		"/C/xampp/htdocs/hotelr/engine/tesseract/procedures/init.php",
+		"/C/xampp/htdocs/hotelr/engine/tesseract/env/db.php",
+		"/C/xampp/htdocs/hotelr/engine/tesseract/class/user_singleton.php",
+		"/C/Users/clinton/Novacom Webs Lib/UNICUS/tpanel_original/dashboard.html",
+		"/C/xampp/htdocs/hotelr/engine/tesseract/async/tpanel_json.php",
+		"/C/xampp/htdocs/hotelr/engine/tesseract/async/tpanel_ajax.php",
+		"/C/xampp/htdocs/hotelr/test/room-reservation.php",
+		"/C/xampp/htdocs/hotelr/enter/index.php",
+		"/C/xampp/htdocs/hotelr/test/index.php",
+		"/C/xampp/htdocs/hotelr/engine/tesseract/class/config.php",
+		"/C/xampp/htdocs/hotelr/index.php",
+		"/C/xampp/htdocs/hotelr/engine/tesseract/class/room.php",
+		"/C/xampp/htdocs/hotelr/engine/procedures/init.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/about.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/js/custom/live-data.1.0.0.js",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/engine/functions/core/class.room.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/general-management.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/engine/functions/core/class.chart.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/includes/modal/manage-guest.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/engine/functions/core/class.time_object.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/search.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/includes/specifics/settings_globals.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/includes/specifics/settings_security.php",
+		"/C/Users/clinton/Documents/PYTHON Codes/hello.py",
+		"/C/xampp/htdocs/Africa/wp-config.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/includes/meta-main.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/css/main.css",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/css/widgets.css",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/engine/functions/core/class.config.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/css/tesseract-data.css",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/guest-registeration.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/includes/settings-topbar.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"b64",
+			"'http://localhost/new_flimbit/api/json'",
+			"apiHost",
+			"'http://localhost/new_flimbit/api/v1/json'",
+			"'http://localhost/new_flimbit/api/json'",
+			"ad_title",
+			"$_POST",
+			"$_REQUEST",
+			"$_POST",
+			"$_REQUEST",
+			"$m_para_key_order",
+			"m_order",
+			"h1",
+			"h3",
+			"h1",
+			"  ",
+			"poster",
+			"Ad_Factory::allAssoc($num_result_per_page, $page_num)",
+			"$this->",
+			"public",
+			"$_POST",
+			"!= ",
+			"null",
+			"<i class=\"icon fa fa-exclamation-triangle\"></i>",
+			"_REQUEST",
+			"autofocus",
+			"<icon class=\"fa fa-exclamation-circle\"></icon> ",
+			"$_POST",
+			"$_SERVER['DOCUMENT_ROOT'].'/new_flimbit/engine/env/ftf.php'",
+			"$_SERVER['DOCUMENT_ROOT'].'/emmapassions",
+			".search",
+			"<span><i class=\"fa fa-bath\"></i>2 Beadrooms</span>",
+			"UNIBEN",
+			"<i class=\"fa fa-map-marker location-icon\" ></i>",
+			"UNIBEN",
+			"fa-map-marker-alt",
+			"UNIBEN",
+			"arrows-alt",
+			"1678 Sq ft",
+			"New York",
+			"small",
+			"                <div class=\"address\">4062 Walnut Hill Drive\n            Cincinnati</div>",
+			"$",
+			"let",
+			"col-lg-2 col-md-4 col-xs-5",
+			"col-lg-3 col-md-4 col-xs-6",
+			"dfeeff",
+			"email",
+			"col-lg-2 col-md-4 col-xs-4",
+			"col-lg-3 col-md-4 col-xs-6",
+			"ol-lg-3 col-md-4 col-xs-6",
+			"col-lg-3 col-md-4 col-xs-6",
+			"col-lg-3 col-md-4 col-xs-6 item",
+			"<?php echo number_format(rand(100, 10000)) ?>",
+			"100% 100%",
+			"cover",
+			"#fed136;",
+			"#000000",
+			"<a href=\"#\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" aria-expanded=\"false\">\n              <i class=\"fa fa-envelope-o\"></i>\n              <span class=\"label label-success\">4</span>\n            </a>",
+			"<li class=\"dropdown notifications-menu open\">",
+			"<li class=\"dropdown notifications-menu open\">\n    ",
+			"<li class=\"dropdown notifications-menu open\">\n            <a href=\"#\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" aria-expanded=\"true\">\n              <i class=\"fa fa-bell-o\"></i>\n              <span class=\"label label-warning\">10</span>\n            </a>\n            <ul class=\"dropdown-menu\">\n              <li class=\"header\">You have 10 notifications</li>\n              <li>\n                <!-- inner menu: contains the actual data -->\n                <div class=\"slimScrollDiv\" style=\"position: relative; overflow: hidden; width: auto; height: 200px;\"><ul class=\"menu\" style=\"overflow: hidden; width: 100%; height: 200px;\">\n                  <li>\n                    <a href=\"#\">\n                      <i class=\"fa fa-users text-aqua\"></i> 5 new members joined today\n                    </a>\n                  </li>\n                  <li>\n                    <a href=\"#\">\n                      <i class=\"fa fa-warning text-yellow\"></i> Very long description here that may not fit into the\n                      page and may cause design problems\n                    </a>\n                  </li>\n                  <li>\n                    <a href=\"#\">\n                      <i class=\"fa fa-users text-red\"></i> 5 new members joined\n                    </a>\n                  </li>\n                  <li>\n                    <a href=\"#\">\n                      <i class=\"fa fa-shopping-cart text-green\"></i> 25 sales made\n                    </a>\n                  </li>\n                  <li>\n                    <a href=\"#\">\n                      <i class=\"fa fa-user text-red\"></i> You changed your username\n                    </a>\n                  </li>\n                </ul><div class=\"slimScrollBar\" style=\"width: 3px; position: absolute; top: 0px; opacity: 0.4; display: none; border-radius: 7px; z-index: 99; right: 1px; height: 195.121951219512px; background: rgb(0, 0, 0);\"></div><div class=\"slimScrollRail\" style=\"width: 3px; height: 100%; position: absolute; top: 0px; display: none; border-radius: 7px; opacity: 0.2; z-index: 90; right: 1px; background: rgb(51, 51, 51);\"></div></div>\n              </li>\n              <li class=\"footer\"><a href=\"#\">View all</a></li>\n            </ul>\n          </li>",
+			"<div class=\"tab-content\">\n      <!-- Home tab content -->\n      <div class=\"tab-pane\" id=\"control-sidebar-home-tab\">\n        <h3 class=\"control-sidebar-heading\">Recent Activity</h3>\n        <ul class=\"control-sidebar-menu\">\n          <li>\n            <a href=\"javascript:void(0)\">\n              <i class=\"menu-icon fa fa-birthday-cake bg-red\"></i>\n\n              <div class=\"menu-info\">\n                <h4 class=\"control-sidebar-subheading\">Langdon's Birthday</h4>\n\n                <p>Will be 23 on April 24th</p>\n              </div>\n            </a>\n          </li>\n          <li>\n            <a href=\"javascript:void(0)\">\n              <i class=\"menu-icon fa fa-user bg-yellow\"></i>\n\n              <div class=\"menu-info\">\n                <h4 class=\"control-sidebar-subheading\">Frodo Updated His Profile</h4>\n\n                <p>New phone +1(800)555-1234</p>\n              </div>\n            </a>\n          </li>\n          <li>\n            <a href=\"javascript:void(0)\">\n              <i class=\"menu-icon fa fa-envelope-o bg-light-blue\"></i>\n\n              <div class=\"menu-info\">\n                <h4 class=\"control-sidebar-subheading\">Nora Joined Mailing List</h4>\n\n                <p>nora@example.com</p>\n              </div>\n            </a>\n          </li>\n          <li>\n            <a href=\"javascript:void(0)\">\n              <i class=\"menu-icon fa fa-file-code-o bg-green\"></i>\n\n              <div class=\"menu-info\">\n                <h4 class=\"control-sidebar-subheading\">Cron Job 254 Executed</h4>\n\n                <p>Execution time 5 seconds</p>\n              </div>\n            </a>\n          </li>\n        </ul>\n        <!-- /.control-sidebar-menu -->\n\n        <h3 class=\"control-sidebar-heading\">Tasks Progress</h3>\n        <ul class=\"control-sidebar-menu\">\n          <li>\n            <a href=\"javascript:void(0)\">\n              <h4 class=\"control-sidebar-subheading\">\n                Custom Template Design\n                <span class=\"label label-danger pull-right\">70%</span>\n              </h4>\n\n              <div class=\"progress progress-xxs\">\n                <div class=\"progress-bar progress-bar-danger\" style=\"width: 70%\"></div>\n              </div>\n            </a>\n          </li>\n          <li>\n            <a href=\"javascript:void(0)\">\n              <h4 class=\"control-sidebar-subheading\">\n                Update Resume\n                <span class=\"label label-success pull-right\">95%</span>\n              </h4>\n\n              <div class=\"progress progress-xxs\">\n                <div class=\"progress-bar progress-bar-success\" style=\"width: 95%\"></div>\n              </div>\n            </a>\n          </li>\n          <li>\n            <a href=\"javascript:void(0)\">\n              <h4 class=\"control-sidebar-subheading\">\n                Laravel Integration\n                <span class=\"label label-warning pull-right\">50%</span>\n              </h4>\n\n              <div class=\"progress progress-xxs\">\n                <div class=\"progress-bar progress-bar-warning\" style=\"width: 50%\"></div>\n              </div>\n            </a>\n          </li>\n          <li>\n            <a href=\"javascript:void(0)\">\n              <h4 class=\"control-sidebar-subheading\">\n                Back End Framework\n                <span class=\"label label-primary pull-right\">68%</span>\n              </h4>\n\n              <div class=\"progress progress-xxs\">\n                <div class=\"progress-bar progress-bar-primary\" style=\"width: 68%\"></div>\n              </div>\n            </a>\n          </li>\n        </ul>\n        <!-- /.control-sidebar-menu -->\n\n      </div><div id=\"control-sidebar-theme-demo-options-tab\" class=\"tab-pane\"><div><h4 class=\"control-sidebar-heading\">Layout Options</h4><div class=\"form-group\"><label class=\"control-sidebar-subheading\"><input type=\"checkbox\" data-layout=\"fixed\" class=\"pull-right\"> Fixed layout</label><p>Activate the fixed layout. You can't use fixed and boxed layouts together</p></div><div class=\"form-group\"><label class=\"control-sidebar-subheading\"><input type=\"checkbox\" data-layout=\"layout-boxed\" class=\"pull-right\"> Boxed Layout</label><p>Activate the boxed layout</p></div><div class=\"form-group\"><label class=\"control-sidebar-subheading\"><input type=\"checkbox\" data-layout=\"sidebar-collapse\" class=\"pull-right\"> Toggle Sidebar</label><p>Toggle the left sidebar's state (open or collapse)</p></div><div class=\"form-group\"><label class=\"control-sidebar-subheading\"><input type=\"checkbox\" data-enable=\"expandOnHover\" class=\"pull-right\"> Sidebar Expand on Hover</label><p>Let the sidebar mini expand on hover</p></div><div class=\"form-group\"><label class=\"control-sidebar-subheading\"><input type=\"checkbox\" data-controlsidebar=\"control-sidebar-open\" class=\"pull-right\"> Toggle Right Sidebar Slide</label><p>Toggle between slide over content and push content effects</p></div><div class=\"form-group\"><label class=\"control-sidebar-subheading\"><input type=\"checkbox\" data-sidebarskin=\"toggle\" class=\"pull-right\"> Toggle Right Sidebar Skin</label><p>Toggle between dark and light skins for the right sidebar</p></div><h4 class=\"control-sidebar-heading\">Skins</h4><ul class=\"list-unstyled clearfix\"><li style=\"float:left; width: 33.33333%; padding: 5px;\"><a href=\"javascript:void(0);\" data-skin=\"skin-blue\" style=\"display: block; box-shadow: 0 0 3px rgba(0,0,0,0.4)\" class=\"clearfix full-opacity-hover\"><div><span style=\"display:block; width: 20%; float: left; height: 7px; background: #367fa9;\"></span><span class=\"bg-light-blue\" style=\"display:block; width: 80%; float: left; height: 7px;\"></span></div><div><span style=\"display:block; width: 20%; float: left; height: 20px; background: #222d32;\"></span><span style=\"display:block; width: 80%; float: left; height: 20px; background: #f4f5f7;\"></span></div></a><p class=\"text-center no-margin\">Blue</p></li><li style=\"float:left; width: 33.33333%; padding: 5px;\"><a href=\"javascript:void(0);\" data-skin=\"skin-black\" style=\"display: block; box-shadow: 0 0 3px rgba(0,0,0,0.4)\" class=\"clearfix full-opacity-hover\"><div style=\"box-shadow: 0 0 2px rgba(0,0,0,0.1)\" class=\"clearfix\"><span style=\"display:block; width: 20%; float: left; height: 7px; background: #fefefe;\"></span><span style=\"display:block; width: 80%; float: left; height: 7px; background: #fefefe;\"></span></div><div><span style=\"display:block; width: 20%; float: left; height: 20px; background: #222;\"></span><span style=\"display:block; width: 80%; float: left; height: 20px; background: #f4f5f7;\"></span></div></a><p class=\"text-center no-margin\">Black</p></li><li style=\"float:left; width: 33.33333%; padding: 5px;\"><a href=\"javascript:void(0);\" data-skin=\"skin-purple\" style=\"display: block; box-shadow: 0 0 3px rgba(0,0,0,0.4)\" class=\"clearfix full-opacity-hover\"><div><span style=\"display:block; width: 20%; float: left; height: 7px;\" class=\"bg-purple-active\"></span><span class=\"bg-purple\" style=\"display:block; width: 80%; float: left; height: 7px;\"></span></div><div><span style=\"display:block; width: 20%; float: left; height: 20px; background: #222d32;\"></span><span style=\"display:block; width: 80%; float: left; height: 20px; background: #f4f5f7;\"></span></div></a><p class=\"text-center no-margin\">Purple</p></li><li style=\"float:left; width: 33.33333%; padding: 5px;\"><a href=\"javascript:void(0);\" data-skin=\"skin-green\" style=\"display: block; box-shadow: 0 0 3px rgba(0,0,0,0.4)\" class=\"clearfix full-opacity-hover\"><div><span style=\"display:block; width: 20%; float: left; height: 7px;\" class=\"bg-green-active\"></span><span class=\"bg-green\" style=\"display:block; width: 80%; float: left; height: 7px;\"></span></div><div><span style=\"display:block; width: 20%; float: left; height: 20px; background: #222d32;\"></span><span style=\"display:block; width: 80%; float: left; height: 20px; background: #f4f5f7;\"></span></div></a><p class=\"text-center no-margin\">Green</p></li><li style=\"float:left; width: 33.33333%; padding: 5px;\"><a href=\"javascript:void(0);\" data-skin=\"skin-red\" style=\"display: block; box-shadow: 0 0 3px rgba(0,0,0,0.4)\" class=\"clearfix full-opacity-hover\"><div><span style=\"display:block; width: 20%; float: left; height: 7px;\" class=\"bg-red-active\"></span><span class=\"bg-red\" style=\"display:block; width: 80%; float: left; height: 7px;\"></span></div><div><span style=\"display:block; width: 20%; float: left; height: 20px; background: #222d32;\"></span><span style=\"display:block; width: 80%; float: left; height: 20px; background: #f4f5f7;\"></span></div></a><p class=\"text-center no-margin\">Red</p></li><li style=\"float:left; width: 33.33333%; padding: 5px;\"><a href=\"javascript:void(0);\" data-skin=\"skin-yellow\" style=\"display: block; box-shadow: 0 0 3px rgba(0,0,0,0.4)\" class=\"clearfix full-opacity-hover\"><div><span style=\"display:block; width: 20%; float: left; height: 7px;\" class=\"bg-yellow-active\"></span><span class=\"bg-yellow\" style=\"display:block; width: 80%; float: left; height: 7px;\"></span></div><div><span style=\"display:block; width: 20%; float: left; height: 20px; background: #222d32;\"></span><span style=\"display:block; width: 80%; float: left; height: 20px; background: #f4f5f7;\"></span></div></a><p class=\"text-center no-margin\">Yellow</p></li><li style=\"float:left; width: 33.33333%; padding: 5px;\"><a href=\"javascript:void(0);\" data-skin=\"skin-blue-light\" style=\"display: block; box-shadow: 0 0 3px rgba(0,0,0,0.4)\" class=\"clearfix full-opacity-hover\"><div><span style=\"display:block; width: 20%; float: left; height: 7px; background: #367fa9;\"></span><span class=\"bg-light-blue\" style=\"display:block; width: 80%; float: left; height: 7px;\"></span></div><div><span style=\"display:block; width: 20%; float: left; height: 20px; background: #f9fafc;\"></span><span style=\"display:block; width: 80%; float: left; height: 20px; background: #f4f5f7;\"></span></div></a><p class=\"text-center no-margin\" style=\"font-size: 12px\">Blue Light</p></li><li style=\"float:left; width: 33.33333%; padding: 5px;\"><a href=\"javascript:void(0);\" data-skin=\"skin-black-light\" style=\"display: block; box-shadow: 0 0 3px rgba(0,0,0,0.4)\" class=\"clearfix full-opacity-hover\"><div style=\"box-shadow: 0 0 2px rgba(0,0,0,0.1)\" class=\"clearfix\"><span style=\"display:block; width: 20%; float: left; height: 7px; background: #fefefe;\"></span><span style=\"display:block; width: 80%; float: left; height: 7px; background: #fefefe;\"></span></div><div><span style=\"display:block; width: 20%; float: left; height: 20px; background: #f9fafc;\"></span><span style=\"display:block; width: 80%; float: left; height: 20px; background: #f4f5f7;\"></span></div></a><p class=\"text-center no-margin\" style=\"font-size: 12px\">Black Light</p></li><li style=\"float:left; width: 33.33333%; padding: 5px;\"><a href=\"javascript:void(0);\" data-skin=\"skin-purple-light\" style=\"display: block; box-shadow: 0 0 3px rgba(0,0,0,0.4)\" class=\"clearfix full-opacity-hover\"><div><span style=\"display:block; width: 20%; float: left; height: 7px;\" class=\"bg-purple-active\"></span><span class=\"bg-purple\" style=\"display:block; width: 80%; float: left; height: 7px;\"></span></div><div><span style=\"display:block; width: 20%; float: left; height: 20px; background: #f9fafc;\"></span><span style=\"display:block; width: 80%; float: left; height: 20px; background: #f4f5f7;\"></span></div></a><p class=\"text-center no-margin\" style=\"font-size: 12px\">Purple Light</p></li><li style=\"float:left; width: 33.33333%; padding: 5px;\"><a href=\"javascript:void(0);\" data-skin=\"skin-green-light\" style=\"display: block; box-shadow: 0 0 3px rgba(0,0,0,0.4)\" class=\"clearfix full-opacity-hover\"><div><span style=\"display:block; width: 20%; float: left; height: 7px;\" class=\"bg-green-active\"></span><span class=\"bg-green\" style=\"display:block; width: 80%; float: left; height: 7px;\"></span></div><div><span style=\"display:block; width: 20%; float: left; height: 20px; background: #f9fafc;\"></span><span style=\"display:block; width: 80%; float: left; height: 20px; background: #f4f5f7;\"></span></div></a><p class=\"text-center no-margin\" style=\"font-size: 12px\">Green Light</p></li><li style=\"float:left; width: 33.33333%; padding: 5px;\"><a href=\"javascript:void(0);\" data-skin=\"skin-red-light\" style=\"display: block; box-shadow: 0 0 3px rgba(0,0,0,0.4)\" class=\"clearfix full-opacity-hover\"><div><span style=\"display:block; width: 20%; float: left; height: 7px;\" class=\"bg-red-active\"></span><span class=\"bg-red\" style=\"display:block; width: 80%; float: left; height: 7px;\"></span></div><div><span style=\"display:block; width: 20%; float: left; height: 20px; background: #f9fafc;\"></span><span style=\"display:block; width: 80%; float: left; height: 20px; background: #f4f5f7;\"></span></div></a><p class=\"text-center no-margin\" style=\"font-size: 12px\">Red Light</p></li><li style=\"float:left; width: 33.33333%; padding: 5px;\"><a href=\"javascript:void(0);\" data-skin=\"skin-yellow-light\" style=\"display: block; box-shadow: 0 0 3px rgba(0,0,0,0.4)\" class=\"clearfix full-opacity-hover\"><div><span style=\"display:block; width: 20%; float: left; height: 7px;\" class=\"bg-yellow-active\"></span><span class=\"bg-yellow\" style=\"display:block; width: 80%; float: left; height: 7px;\"></span></div><div><span style=\"display:block; width: 20%; float: left; height: 20px; background: #f9fafc;\"></span><span style=\"display:block; width: 80%; float: left; height: 20px; background: #f4f5f7;\"></span></div></a><p class=\"text-center no-margin\" style=\"font-size: 12px;\">Yellow Light</p></li></ul></div></div>\n      <!-- /.tab-pane -->\n      <!-- Stats tab content -->\n      <div class=\"tab-pane\" id=\"control-sidebar-stats-tab\">Stats Tab Content</div>\n      <!-- /.tab-pane -->\n      <!-- Settings tab content -->\n      <div class=\"tab-pane active\" id=\"control-sidebar-settings-tab\">\n        <form method=\"post\">\n          <h3 class=\"control-sidebar-heading\">General Settings</h3>\n\n          <div class=\"form-group\">\n            <label class=\"control-sidebar-subheading\">\n              Report panel usage\n              <input type=\"checkbox\" class=\"pull-right\" checked=\"\">\n            </label>\n\n            <p>\n              Some information about this general settings option\n            </p>\n          </div>\n          <!-- /.form-group -->\n\n          <div class=\"form-group\">\n            <label class=\"control-sidebar-subheading\">\n              Allow mail redirect\n              <input type=\"checkbox\" class=\"pull-right\" checked=\"\">\n            </label>\n\n            <p>\n              Other sets of options are available\n            </p>\n          </div>\n          <!-- /.form-group -->\n\n          <div class=\"form-group\">\n            <label class=\"control-sidebar-subheading\">\n              Expose author name in posts\n              <input type=\"checkbox\" class=\"pull-right\" checked=\"\">\n            </label>\n\n            <p>\n              Allow the user to show his name in blog posts\n            </p>\n          </div>\n          <!-- /.form-group -->\n\n          <h3 class=\"control-sidebar-heading\">Chat Settings</h3>\n\n          <div class=\"form-group\">\n            <label class=\"control-sidebar-subheading\">\n              Show me as online\n              <input type=\"checkbox\" class=\"pull-right\" checked=\"\">\n            </label>\n          </div>\n          <!-- /.form-group -->\n\n          <div class=\"form-group\">\n            <label class=\"control-sidebar-subheading\">\n              Turn off notifications\n              <input type=\"checkbox\" class=\"pull-right\">\n            </label>\n          </div>\n          <!-- /.form-group -->\n\n          <div class=\"form-group\">\n            <label class=\"control-sidebar-subheading\">\n              Delete chat history\n              <a href=\"javascript:void(0)\" class=\"text-red pull-right\"><i class=\"fa fa-trash-o\"></i></a>\n            </label>\n          </div>\n          <!-- /.form-group -->\n        </form>\n      </div>\n      <!-- /.tab-pane -->\n    </div>",
+			"  <input type=\"date\" name=\"cost\" style=\"\n                  color: white;\n                  background-color: transparent;\n                  height: 27px;\n                  width: 132px;\n                  margin-right: 35px;\n                  border: 1px solid #cecccc;\n              \">   \n              </div>",
+			"<div id=\"\" class=\"summary-count\">55</div>",
+			"<th class=\"column100 column2\" data-column=\"column2\" style=\"\n                                  width: 100px;\n                              \">Room No.</th>",
+			"declined",
+			"<p style=\"text-align: center; font-weight: bold;\">\n\n  Room Request No:    \n<span style=\"\n    display: inline-block;\n    margin-left: 20px;\n\">Vre4376vdhv</span>\n</p>",
+			"$param_id",
+			"User-Image",
+			"Request No.",
+			"request",
+			"room",
+			"$user",
+			"total_cos",
+			"`",
+			"engine",
+			"//p"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"apiHost",
+			"'http://localhost/new_flimbit/api/v1/json'",
+			"apiHost",
+			"'http://localhost/new_flimbit/api/v1/json'",
+			"title",
+			"$_DATA",
+			"$m_param_key_order",
+			"m_para_key_order",
+			"h4",
+			"h3",
+			"creator",
+			"$all_ads_assoc",
+			"self::$",
+			"public static",
+			"$_REQUEST",
+			"",
+			"_POST",
+			"",
+			"autofocus=\"off\"",
+			"",
+			"$_REQUEST",
+			"ROOT.'",
+			"ROOT",
+			"categories",
+			"<i class=\"fa fa-map-marker location-icon\" ></i> UNIBEN",
+			"This is where the description of the product from search result will display",
+			"",
+			"This is where the description will go to",
+			"fa-map-marker",
+			"<i class=\"fa fa-map-marker-alt location-icon\" ></i> UNIBEN",
+			"clock-o",
+			"clock",
+			"13:14, 16 Nov 2017",
+			"This is the place where the ad description will go to",
+			"UNIBEN",
+			"small class=\"desc\" id=\"desc_txt\"",
+			"",
+			"&#8358 ",
+			"&#8358;",
+			"&#8358",
+			"var",
+			"col-lg-4 col-md-5 col-xs-5",
+			"col-lg-2 col-md-4 col-xs-5",
+			"username",
+			"col-lg-3 col-md-4 col-xs-6",
+			"col-lg-2 col-md-4 col-xs-4",
+			"col-lg-3 col-md-4 col-xs-4",
+			"col-lg-2 col-md-5 col-xs-6",
+			"col-lg-2 col-md-3 col-xs-5",
+			"col-lg-2 col-md-3 col-xs-4 item",
+			"col-lg-5 col-md-6 col-xs-8 item",
+			"500",
+			"cover",
+			"100% 100%",
+			"$param_voucher",
+			"Voucher",
+			"hall",
+			"$userFactory",
+			"'",
+			"engine/tesseract",
+			"p"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/htdocs/new_flimbit/api/test.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 220,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								209,
+								209
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/xampp/htdocs/new_flimbit/post-ad.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13940,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13914,
+								13850
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 414.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/xampp/htdocs/new_flimbit/js/main-lib.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3971,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2399,
+								1867
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1081.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/xampp/htdocs/new_flimbit/settings.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17756,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14433,
+								14433
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7155.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/xampp/htdocs/new_flimbit/welcome.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3398,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1591,
+								1336
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 160.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/xampp/htdocs/new_flimbit/signup.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15643,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9698,
+								9698
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 8885.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/xampp/htdocs/new_flimbit/login.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9775,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5672.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/xampp/htdocs/new_flimbit/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7735,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2420,
+								2420
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/xampp/htdocs/new_flimbit/api/v1/json.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18139,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								336,
+								336
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/xampp/htdocs/test/jquery/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4941,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 24,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1795,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1373,
+								1373
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 891.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 23,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 13,
+					"file": "Class/upload.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6545,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								6545
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 167.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/C/xampp/htdocs/cryptowhale/Engine/Controllers/login_ctrl.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 462,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8,
+								8
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "Controllers/post-ad_ctrl.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2274,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2167,
+								2093
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 243.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "Controllers/index_ctrl.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1032,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 12.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "Controllers/login_ctrl.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1379,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "Controllers/signup_ctrl.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2951,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "Class/ad_factory.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12091,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6449,
+								5126
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 85.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "Class/school_factory.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2272,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								83,
+								83
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "Class/user_factory.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6217,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 96.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "Class/user_singleton.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2324,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 848.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "Class/ad_singleton.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1846,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 87.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "Env/ftf.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1306,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1297,
+								1268
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 421.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 60.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.956672443674,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 33.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 127.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "new_flimbit.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

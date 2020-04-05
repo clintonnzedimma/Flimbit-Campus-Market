@@ -1,0 +1,22 @@
+<script src="jquery-3.2.1.min.js"></script>
+<script src="js/aos.js"></script>
+<link href="css/aos.css" rel="stylesheet" />
+
+<div id="content1" data-aos="flip-down" data-aos-delay="0">
+     <p>Some content</p>
+</div>
+
+<script type="text/javascript">
+request = {
+    api_key : 'zxcvbnm',
+    entity : 'ad',
+    m : 'existsById'
+    
+}
+$.getJSON(
+    'http://localhost/new_flimbit/api/json',
+    request,
+    function(response, status) {
+       console.log(response); 
+});
+</script>
